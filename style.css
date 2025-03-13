@@ -81,6 +81,7 @@ font-size: 30px;
 color: white;
 }
 
+/* MOBILE SCREEN */
 @media(max-width:768px) {
     .li-navbar{
         font-size: 12px;
