@@ -87,6 +87,15 @@ color: white;
         font-size: 12px;
         align-items: center;
     }
+    .navbar-container{
+        height:10vh;
+    }
+    .container-content{
+        height:80vh;
+    }
+    .container-footer{
+        height:10vh;
+    }
     .a-content{
         border-radius: 40px;
         width: 480px;
