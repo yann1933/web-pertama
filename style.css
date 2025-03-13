@@ -80,3 +80,20 @@ height: 10vh;
 font-size: 30px;
 color: white;
 }
+
+@media(max-width:768px) {
+    .li-navbar{
+        font-size: 12px;
+        align-items: center;
+    }
+    .a-content{
+        border-radius: 40px;
+        width: 480px;
+        height: 244px;
+        font-size: 15px;
+    }
+    .h1-footer{
+        font-size: 15px;
+    }
+}
+}
